@@ -1,0 +1,499 @@
+body{
+    background-image: url('./images/AboutUsbackground.png');
+    background-repeat: no-repeat;
+}
+#dropdown{
+    background-color: rgba(217, 217, 217, 0.58);
+    border: none;
+}
+#ared{
+    color: white;
+}
+#ared:hover{
+    color: #DF6951;
+}
+#adrop{
+    color: white;
+}
+#adrop:hover{
+    color: black;
+}
+.btn{
+    background-color: #DF6951;
+    border: #DF6951;
+    color: white;
+}
+.btn:hover{
+    background-color: #db8776;
+    border: #db8776;
+    color: white;
+}
+#arrow{
+    margin-left: 195px;
+    margin-top: -25px;
+}
+#content p{
+    color: #FFEFEC;
+    font-family: Poppins;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 1.8px;
+    text-transform: uppercase;
+    margin-left: 530px;
+    margin-top: 130px;
+}
+#content img{
+    margin-left: 340px;
+}
+#box1{
+    width: 900px;
+    height: 500.906px;
+    /* border: 1px solid black; */
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-left: 90px;
+    margin-top: 177px;
+}
+.col1{
+    height: 450px;
+    width: 400px;
+    /* border: 1px solid black; */
+}
+#subbox11 #image1{
+    margin-left: 25px;
+    margin-top: 100px;
+}
+#subbox11 #image2{
+    margin-top: -250px;
+    margin-left: 70px;
+}
+#subbox11 #image3{
+    margin-top: -300px;
+    margin-left: 55px;
+}
+#subbox2{
+    padding: 50px;
+}
+#subbox21 h6{
+    color: #DF6951;
+    font-family: Poppins;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 1.8px;
+    text-transform: uppercase;
+    margin-top: 25px;
+    margin-left: 0px;
+}
+#subbox22 h5{
+    color: #181E4B;
+    font-family: Volkhov;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal /* 142.085% */
+}
+#subbox23 p{
+    color: var(--black, #000);
+    font-family: Poppins;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; /* 162.5% */
+}
+#wanderlust{
+    /* margin-top: -1400px; */
+    margin-left: 500px;
+}
+#Wanderlustimage{
+    margin-top: -450px;
+    margin-left: 500px;
+}
+#box2{
+    width: 900px;
+    height: 500.906px;
+    /* border: 1px solid black; */
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-left: 90px;
+}
+.col2{
+    height: 450px;
+    width: 400px;
+    /* border: 1px solid black; */
+}
+#subbox3{
+    padding: 50px;
+}
+#subbox311 h6{
+    color: #DF6951;
+    font-family: Poppins;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    letter-spacing: 1.8px;
+    text-transform: uppercase;
+    margin-top: 35px;
+    margin-left: 0px;
+}
+#subbox312 h5{
+    color: #181E4B;
+    font-family: Volkhov;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal 
+}
+#subbox313 p{
+    color: var(--black, #000);
+    font-family: Poppins;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px; 
+}
+#honeymoonrange,#musicalrange{
+    margin-left: 20px;
+}
+#shellaboutus{
+    margin-top: -500px;
+    margin-left: 300px;
+}
+#box3{
+    width: 900px;
+    height: 100.906px;
+    /* border: 1px solid black; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 90px;
+    margin-top: 50px;
+}
+#Title{
+    width: 400px;
+    height: 100px;
+    /* border: 1px solid black; */
+}
+#Title h6{
+    color: #DF6951;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-left: 0px;
+}
+#Title h5{
+    color: #181E4B;
+    text-align: center;
+    font-family: Volkhov;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: capitalize;
+}
+/* #travelimage2,#travelimage3,#travelimage4{
+    margin-left: 25px;
+} */
+/* #travelimage3{
+    margin-top: 283px;
+} */
+#travelimage5,#travelimage6,#travelimage7{
+    margin-top: -269px;
+}
+#travelgallery p{
+    color: #FFF;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+#p1travel{
+    margin-top: -600px;
+    margin-left: -440px;
+}
+#p1travel span{
+    margin-left: 100px;
+}
+#p2travel{
+    margin-top: -600px;
+    margin-left: -150px;
+}
+#p2travel span{
+    margin-left: 100px;
+}
+#p3travel{
+    margin-top: -320px;
+    margin-left: 140px;
+}
+#p3travel span{
+    margin-left: 100px;
+}
+#p4travel{
+    margin-top: -600px;
+    margin-left: 410px;
+}
+#p4travel span{
+    margin-left: 100px;
+}
+#p5travel{
+    margin-top: -320px;
+    margin-left: -440px;
+}
+#p5travel span{
+    margin-left: 100px;
+}
+#p6travel{
+    margin-top: -320px;
+    margin-left: -150px;
+}
+#p6travel span{
+    margin-left: 100px;
+}
+#p7travel{
+    margin-top: -320px;
+    margin-left: 410px;
+}
+#p7travel span{
+    margin-left: 100px;
+}
+#p8travel{
+    margin-top: -50px;
+    margin-left: -440px;
+}
+#p8travel span{
+    margin-left: 100px;
+}
+#p9travel{
+    margin-top: -50px;
+    margin-left: -150px;
+}
+#p9travel span{
+    margin-left: 100px;
+}
+#p10travel{
+    margin-top: -50px;
+    margin-left: 140px;
+}
+#p10travel span{
+    margin-left: 100px;
+}
+#p11travel{
+    margin-top: -50px;
+    margin-left: 410px;
+}
+#p11travel span{
+    margin-left: 100px;
+}
+.col8{
+    margin-top: -450px;
+    margin-left: 360px;
+}
+.col8 img{
+    margin-left: 120px;
+}
+.col8 p{
+    margin-left: 30px;
+    color: var(--black, #000);
+    text-align: center;
+    font-family: Poppins;
+    font-size: 12.224px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24.449px; /* 200% */
+    letter-spacing: 0.611px;
+}
+.col8 #girlh6{
+    margin-left: 30px;
+    color: var(--black, #000);
+    text-align: center;
+    font-family: Poppins;
+    font-size: 12.224px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24.449px; /* 200% */
+    letter-spacing: 0.611px;
+}
+.col8 #navigationleft{
+    margin-left: -100px;
+    margin-top: -180px;
+}
+.col8 #navigationright{
+    margin-left: 395px;
+    margin-top: -220px;
+}
+.col8 #doublequotes{
+    margin-left: -5px;
+    margin-top: -420px;
+}
+.col8 #Pagination{
+    margin-left: 55px;
+    margin-top: -120px;
+}
+#box9{
+    width: 900px;
+    height: 300.906px;
+    /* border: 1px solid black; */
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-left: 90px;
+    margin-top: 400px;
+}
+
+.col9{
+    width: 150px;
+    height: 200px;
+    margin-top: -15px;
+    /* border: 1px solid black; */
+}
+.col9 h5{
+    color: #181E4B;
+    font-family: Volkhov;
+    font-size: 21.622px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: capitalize;
+}
+.col9 #arrowfooter{
+    margin-top: -40px;
+    margin-left: 15px;
+}
+.col9 #p2{
+    color: #757095;
+    font-family: Manrope;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px; /* 175% */
+    letter-spacing: -0.32px;
+}
+.col9 #linkedinicon,#messengericon,#twittericon,#twooicon{
+    margin-top: -20px;
+}
+.col9 #h61{
+    color: #181433;
+    font-family: Manrope;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px; /* 114.286% */
+    margin-left: -1px;
+    margin-top: 20px;
+}
+.col9 #p3,#p4,#p5,#p6{
+    color: #181433;
+    font-family: Manrope;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 18px; /* 150% */
+}
+.col9 #newsletterbutton{
+    margin-left: 90px;
+    margin-top: -30px;
+}
+.col9 #p7{
+    color: #181433;
+    font-family: Manrope;
+    font-size: 9px;
+    font-style: normal;
+    font-weight: 50;
+    line-height: 26px; /* 162.5% */
+    letter-spacing: -0.32px;
+    margin-top: -50px;
+}
+.col9 #p8{
+    color: #FFF;
+    font-family: Manrope;
+    font-size: 9px;
+    font-style: normal;
+    font-weight: 40;
+    line-height: 26px; /* 162.5% */
+    letter-spacing: -0.32px;
+    margin-top: -40px;
+    margin-left: 120px;
+}
+.col9 #p9{
+    color: #181433;
+    font-family: Manrope;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px; /* 162.5% */
+    letter-spacing: -0.32px;
+}
+#Line2{
+    height: 2px;
+    width: 1200px;
+    border: 2px solid #E5E5EA;
+    margin-top: 60px;
+    margin-left: 90px
+}
+#footerp{
+    color: #181433;
+    text-align: center;
+    font-family: Manrope;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 162.5% */
+    letter-spacing: -0.32px;
+}
+@media(max-width : 300px){
+    #travelimage1{
+        margin-top: 50px;
+        margin-left: 400px;
+    }
+    #travelimage2{
+        margin-top: 50px;
+        margin-left: 400px;
+    }
+    #travelimage3{
+        margin-top: 50px;
+        margin-left: 400px;
+    }
+    #travelimage4{
+        margin-top: 50px;
+        margin-left: 400px;
+    }
+    #travelimage5{
+        margin-top: 50px;
+        margin-left: 400px;
+    }
+    #travelimage6{
+        margin-top: 50px;
+        margin-left: 400px;
+    }
+    #travelimage7{
+        margin-top: 50px;
+        margin-left: 400px;
+    }
+    #travelimage8{
+        margin-top: 50px;
+        margin-left: 400px;
+    }
+    #travelimage9{
+        margin-top: 50px;
+        margin-left: 400px;
+    }
+    #travelimage10{
+        margin-top: 50px;
+        margin-left: 400px;
+    }
+    #travelimage11{
+        margin-top: 50px;
+        margin-left: 400px;
+    }
+}

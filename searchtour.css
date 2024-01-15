@@ -1,0 +1,379 @@
+body{
+    background-image: url('./images/travelwithusbg.png');
+    background-repeat: no-repeat;
+}
+#dropdown{
+    background-color: rgba(217, 217, 217, 0.58);
+    border: none;
+}
+#ared{
+    color: white;
+}
+#ared:hover{
+    color: #DF6951;
+}
+#adrop{
+    color: white;
+}
+#adrop:hover{
+    color: black;
+}
+.btn{
+    background-color: #DF6951;
+    border: #DF6951;
+    color: white;
+}
+.btn:hover{
+    background-color: #db8776;
+    border: #db8776;
+    color: white;
+}
+#arrow{
+    margin-left: 195px;
+    margin-top: -25px;
+}
+#content p{
+    color: #FFEFEC;
+    font-family: Poppins;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 1.8px;
+    text-transform: uppercase;
+    margin-left: 510px;
+    margin-top: 130px;
+}
+#content img{
+    margin-left: 150px;
+}
+#searchnavbar{
+    height: 100px;
+    width: 1200px;
+    background: #F8F8F8;
+    /* border: 1px solid black; */
+    margin-top: 135px;
+    margin-left: -50px;
+    display: flex;
+}
+#searchnavbar .col1{
+    height: 100px;
+    width: 400px;
+    /* border: 1px solid black; */
+}
+#searchnavbar img{
+    margin-top: 40px;
+}
+#searchnavbar p{
+    color: #343434;
+    font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 2px;
+    text-transform: capitalize;
+    margin-top: -20px;
+}
+#travelcalendar{
+    margin-left: 100px;
+}
+#searchnavbar1 p{
+    margin-top: -20px;
+    margin-left: 130px;
+}
+#pricetravelicon,#pricehightolow{
+    margin-left: 30px;
+}
+#searchnavbar2 p{
+    margin-top: -20px;
+    margin-left: 60px;
+}
+#searchnavbar3 p{
+    margin-top: -20px;
+    margin-left: 60px;
+}
+#pen{
+margin-left: 60px;
+}
+#searchnavbar4 p{
+    margin-top: -20px;
+    margin-left: 90px;
+}
+#plantour{
+    height: 1250px;
+    width: 1200px;
+    /* border: 1px solid black; */
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    /* margin-top: 135px; */
+    margin-left: -50px; 
+}
+#switztitle,#berlintitle,#maldivestitle,#torontotitle,#Bakutitle,#chinesetitle{
+    color: #181E4B;
+    font-family: Volkhov;
+    font-size: 34.188px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: capitalize;
+}
+#switzp,#berlinp,#maldivesp,#torontop,#Bakup,#chinesep{
+    color: #181E4B;
+    font-family: Poppins;
+    font-size: 15.299px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: capitalize;
+}
+#switzp1,#berlinp1,#maldivesp1,#torontop1,#Bakup1,#chinesep1{
+    color: #262626;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 15.299px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-transform: capitalize;
+    margin-left: -200px;
+}
+.col10:hover{
+    transition: .5s ease-in-out;
+    transform: scale(1.02);
+}
+#card:hover{
+    
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.09), 0 6px 20px 0 rgba(0, 0, 0, 0.09);
+}
+#box9{
+    width: 900px;
+    height: 300.906px;
+    /* border: 1px solid black; */
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-left: 90px;
+    margin-top: 50px;
+}
+
+.col9{
+    width: 150px;
+    height: 200px;
+    margin-top: -15px;
+    /* border: 1px solid black; */
+}
+.col9 h5{
+    color: #181E4B;
+    font-family: Volkhov;
+    font-size: 21.622px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: capitalize;
+}
+.col9 #arrowfooter{
+    margin-top: -40px;
+    margin-left: 15px;
+}
+.col9 #p2{
+    color: #757095;
+    font-family: Manrope;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px; /* 175% */
+    letter-spacing: -0.32px;
+}
+.col9 #linkedinicon,#messengericon,#twittericon,#twooicon{
+    margin-top: -20px;
+}
+.col9 #h61{
+    color: #181433;
+    font-family: Manrope;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px; /* 114.286% */
+    margin-left: -1px;
+    margin-top: 20px;
+}
+.col9 #p3,#p4,#p5,#p6{
+    color: #181433;
+    font-family: Manrope;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 18px; /* 150% */
+}
+.col9 #newsletterbutton{
+    margin-left: 90px;
+    margin-top: -30px;
+}
+.col9 #p7{
+    color: #181433;
+    font-family: Manrope;
+    font-size: 9px;
+    font-style: normal;
+    font-weight: 50;
+    line-height: 26px; /* 162.5% */
+    letter-spacing: -0.32px;
+    margin-top: -50px;
+}
+.col9 #p8{
+    color: #FFF;
+    font-family: Manrope;
+    font-size: 9px;
+    font-style: normal;
+    font-weight: 40;
+    line-height: 26px; /* 162.5% */
+    letter-spacing: -0.32px;
+    margin-top: -40px;
+    margin-left: 120px;
+}
+.col9 #p9{
+    color: #181433;
+    font-family: Manrope;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px; /* 162.5% */
+    letter-spacing: -0.32px;
+}
+#Line2{
+    height: 2px;
+    width: 1200px;
+    border: 2px solid #E5E5EA;
+    margin-top: 60px;
+    margin-left: 90px
+}
+#footerp{
+    color: #181433;
+    text-align: center;
+    font-family: Manrope;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 162.5% */
+    letter-spacing: -0.32px;
+}
+#planyourtrip{
+    height: 700px;
+    width: 350px;
+    /* border: 1px solid black; */
+    margin-top: -1700px;
+    margin-left: 850px;
+    background: #EDEDED;
+}
+#planyourtrip h5{
+    color: #181E4B;
+    text-align: center;
+    font-family: Volkhov;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 30px;
+}
+#planyourtrip p{
+    color: var(--black, #000);
+    text-align: center;
+    font-family: Poppins;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; /* 162.5% */
+}
+#searchtour{
+    height: 70px;
+    width: 250px;
+    /* border: 1px solid black; */
+    margin-left: 50px;
+    background-color: white;
+}
+#whereto,#date{
+    height: 70px;
+    width: 250px;
+    /* border: 1px solid black; */
+    margin-left: 50px;
+    margin-top: 25px;
+    background-color: white;
+}
+#searchicon,#locationicon,#dateicon{
+    margin-top: 25px;
+    margin-left: 30px;
+}
+#searchtour p{
+    margin-top: -24px;
+    margin-left: -55px;
+    color: rgba(0, 0, 0, 0.26);
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; 
+}
+#whereto p{
+    margin-top: -24px;
+    margin-left: -67px;
+    color: rgba(0, 0, 0, 0.26);
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; 
+}
+#date p{
+    margin-top: -24px;
+    margin-left: -100px;
+    color: rgba(0, 0, 0, 0.26);
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; 
+}
+#planyourtrip h6{
+    color: #343434;
+    font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 2px;
+    text-transform: capitalize;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+#range{
+    height: 35px;
+    width: 250px;
+    /* border: 1px solid black; */
+    margin-left: 50px;
+    background-color: white;
+}
+#range1{
+    height: 34px;
+    width: 50px;
+    /* border: 1px solid #DF6951; */
+    background: #DF6951;
+}
+#range2{
+    height: 34px;
+    width: 50px;
+    /* border: 1px solid #DF6951; */
+    background: #DF6951;
+    margin-left: 200px;
+    margin-top: -34px;
+}
+#pricepp{
+    color: rgba(0, 0, 0, 0.56);
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; /* 144.444% */
+    margin-left: -150px;
+}
+#btn1{
+    margin-left: 1px;
+}
